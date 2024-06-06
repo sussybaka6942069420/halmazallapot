@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.navbar-brand {
+    font-weight: bold;
+}
+
+.custom-list {
+    list-style-type: square;
+    margin-left: 20px;
+}
+
+h2 {
+    margin-top: 30px;
+}
+
+p {
+    margin-top: 10px;
+}
+
+.table {
+    margin-top: 20px;
+}
+
+.card {
+    margin-bottom: 20px;
+}
